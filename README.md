@@ -30,7 +30,7 @@ MIPS Assembly
     - **k** to move right
     - **e** to end the program
     
-## Screenshots
+## Visuals
 ![Screenshot of the game](./game_start.png)
 ![Screenshot of the game](./game_play.png)
 ![Screenshot of the game](./game_end.png)

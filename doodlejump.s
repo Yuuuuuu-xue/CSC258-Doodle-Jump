@@ -1,7 +1,7 @@
 #####################################################################
 #
 #
-# Student: Yu Xue, Student Number: 1006057357
+# Student: Yu Xue
 #
 # CSC258H5S Fall 2020 Assembly Final Project
 # University of Toronto, St. George
